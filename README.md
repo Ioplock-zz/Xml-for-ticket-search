@@ -9,4 +9,5 @@ Path to source code app\src\main\java\com\example\xmltickersearchapp\MainActivit
 If you need to change colors us in app\src\main\res\values\colors.xml file.
 List of towns be in file app\src\main\res\values\strings.xml.
 ```
+## Preview
 ![alt Preview](Preview.jpg)
