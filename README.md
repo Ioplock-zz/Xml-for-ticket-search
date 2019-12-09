@@ -7,3 +7,4 @@ Path to drawable app\src\main\res\drawable-v24\ Here all you need.
 Path to layout app\src\main\res\layout\activity_main.xml.
 Path to source code app\src\main\java\com\example\xmltickersearchapp\MainActivity.java.
 ```
+If you need to change colors us in colors.xml file.
